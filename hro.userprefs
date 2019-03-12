@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRTK\Scripts\Utilities\VRTK_DeviceFinder.cs">
+    <Files>
+      <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_DeviceFinder.cs" Line="378" Column="79" />
+      <File FileName="Assets\SteamVR\Scripts\SteamVR_Camera.cs" Line="37" Column="54" />
+      <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_AdaptiveQuality.cs" Line="303" Column="1" />
+      <File FileName="Assets\SteamVR\Scripts\SteamVR.cs" Line="64" Column="33" />
+      <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_SharedMethods.cs" Line="412" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
