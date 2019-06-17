@@ -29,6 +29,29 @@ ModelImporter:
     100046: ID92
     100048: //RootNode
     100050: skp_camera_Last_Saved_SketchUp_View
+    100052: group_0_001
+    100054: group_0_002
+    100056: group_0_003
+    100058: group_0_004
+    100060: group_0_005
+    100062: group_0_006
+    100064: group_0_007
+    100066: group_0_008
+    100068: group_0_009
+    100070: group_0_010
+    100072: group_0_011
+    100074: group_0_012
+    100076: group_0_013
+    100078: group_0_014
+    100080: group_0_015
+    100082: group_0_016
+    100084: group_0_017
+    100086: group_0_018
+    100088: group_0_019
+    100090: group_0_020
+    100092: group_0_021
+    100094: group_0_022
+    100096: group_0_023
     400000: group_0
     400002: ID100
     400004: ID108
@@ -55,6 +78,29 @@ ModelImporter:
     400046: ID92
     400048: //RootNode
     400050: skp_camera_Last_Saved_SketchUp_View
+    400052: group_0_001
+    400054: group_0_002
+    400056: group_0_003
+    400058: group_0_004
+    400060: group_0_005
+    400062: group_0_006
+    400064: group_0_007
+    400066: group_0_008
+    400068: group_0_009
+    400070: group_0_010
+    400072: group_0_011
+    400074: group_0_012
+    400076: group_0_013
+    400078: group_0_014
+    400080: group_0_015
+    400082: group_0_016
+    400084: group_0_017
+    400086: group_0_018
+    400088: group_0_019
+    400090: group_0_020
+    400092: group_0_021
+    400094: group_0_022
+    400096: group_0_023
     2000000: skp_camera_Last_Saved_SketchUp_View
     2100000: material
     2100002: _0135_DarkGray
@@ -91,6 +137,29 @@ ModelImporter:
     2300044: ID86
     2300046: ID92
     2300048: //RootNode
+    2300050: group_0_001
+    2300052: group_0_002
+    2300054: group_0_003
+    2300056: group_0_004
+    2300058: group_0_005
+    2300060: group_0_006
+    2300062: group_0_007
+    2300064: group_0_008
+    2300066: group_0_009
+    2300068: group_0_010
+    2300070: group_0_011
+    2300072: group_0_012
+    2300074: group_0_013
+    2300076: group_0_014
+    2300078: group_0_015
+    2300080: group_0_016
+    2300082: group_0_017
+    2300084: group_0_018
+    2300086: group_0_019
+    2300088: group_0_020
+    2300090: group_0_021
+    2300092: group_0_022
+    2300094: group_0_023
     3300000: group_0
     3300002: ID100
     3300004: ID108
@@ -116,6 +185,29 @@ ModelImporter:
     3300044: ID86
     3300046: ID92
     3300048: //RootNode
+    3300050: group_0_001
+    3300052: group_0_002
+    3300054: group_0_003
+    3300056: group_0_004
+    3300058: group_0_005
+    3300060: group_0_006
+    3300062: group_0_007
+    3300064: group_0_008
+    3300066: group_0_009
+    3300068: group_0_010
+    3300070: group_0_011
+    3300072: group_0_012
+    3300074: group_0_013
+    3300076: group_0_014
+    3300078: group_0_015
+    3300080: group_0_016
+    3300082: group_0_017
+    3300084: group_0_018
+    3300086: group_0_019
+    3300088: group_0_020
+    3300090: group_0_021
+    3300092: group_0_022
+    3300094: group_0_023
     4300000: SketchUp
     4300002: group_0
     4300004: ID14
@@ -141,6 +233,29 @@ ModelImporter:
     4300044: ID146
     4300046: ID152
     4300048: ID160
+    4300050: group_0_001
+    4300052: group_0_002
+    4300054: group_0_003
+    4300056: group_0_004
+    4300058: group_0_005
+    4300060: group_0_006
+    4300062: group_0_007
+    4300064: group_0_008
+    4300066: group_0_009
+    4300068: group_0_010
+    4300070: group_0_011
+    4300072: group_0_012
+    4300074: group_0_013
+    4300076: group_0_014
+    4300078: group_0_015
+    4300080: group_0_016
+    4300082: group_0_017
+    4300084: group_0_018
+    4300086: group_0_019
+    4300088: group_0_020
+    4300090: group_0_021
+    4300092: group_0_022
+    4300094: group_0_023
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -175,6 +290,7 @@ ModelImporter:
     globalScale: 0.2
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -196,9 +312,12 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
-    tangentImportMode: 3
+    normalImportMode: 2
+    tangentImportMode: 2
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
   importAnimation: 0
   copyAvatar: 0
   humanDescription:

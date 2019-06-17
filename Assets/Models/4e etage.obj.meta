@@ -15,6 +15,7 @@ ModelImporter:
     100018: Mesh7
     100020: Mesh8
     100022: Mesh9
+    100024: default
     400000: //RootNode
     400002: Mesh1
     400004: Mesh10
@@ -27,6 +28,7 @@ ModelImporter:
     400018: Mesh7
     400020: Mesh8
     400022: Mesh9
+    400024: default
     2100000: Mesh1Mat
     2100002: Mesh10Mat
     2100004: Mesh11Mat
@@ -38,6 +40,7 @@ ModelImporter:
     2100016: Mesh7Mat
     2100018: Mesh8Mat
     2100020: Mesh9Mat
+    2100022: defaultMat
     2300000: Mesh1
     2300002: Mesh10
     2300004: Mesh11
@@ -49,6 +52,7 @@ ModelImporter:
     2300016: Mesh7
     2300018: Mesh8
     2300020: Mesh9
+    2300022: default
     3300000: Mesh1
     3300002: Mesh10
     3300004: Mesh11
@@ -60,6 +64,7 @@ ModelImporter:
     3300016: Mesh7
     3300018: Mesh8
     3300020: Mesh9
+    3300022: default
     4300000: Mesh1
     4300002: Mesh10
     4300004: Mesh11
@@ -71,6 +76,7 @@ ModelImporter:
     4300016: Mesh7
     4300018: Mesh8
     4300020: Mesh9
+    4300022: default
   externalObjects: {}
   materials:
     importMaterials: 1

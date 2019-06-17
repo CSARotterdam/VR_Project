@@ -9,6 +9,8 @@ Shader "Custom/Equirectangular" {
  
     SubShader{
         Pass {
+            Cull Off
+
             Tags {"LightMode" = "Always"}
  
             CGPROGRAM

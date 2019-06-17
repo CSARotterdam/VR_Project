@@ -58,6 +58,7 @@ namespace VRTK
             if (currentPlayerObject == null)
             {
                 currentPlayerObject = obj.AddComponent<VRTK_PlayerObject>();
+
             }
             currentPlayerObject.objectType = objType;
         }

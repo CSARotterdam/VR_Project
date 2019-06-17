@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: cc03936a62daf9c46a3feb44782bc926
+guid: 4390f3b73c731c846a0cc863c72d7a1e
+timeCreated: 1529518097
+licenseType: Pro
 MonoImporter:
-  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - plantAction: {instanceID: 0}
+  - hand: {instanceID: 0}
+  - prefabToPlant: {fileID: 1000011210241306, guid: 8a2487c189a464148aadc3af2effa7c8,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
